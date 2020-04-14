@@ -10,3 +10,6 @@ this way you can collect original data and work together
 тогда всю информацию на английском можно публиковать и в другой ветке.
 
 Чтобы подключить к работе больше людей.
+
+Для быстрой работы с файлами можно использовать [ VS Code ] с плагином [ github pull requests ] 
+File -> Preferences -> Extensions -> search
