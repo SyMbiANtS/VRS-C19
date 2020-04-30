@@ -1,4 +1,10 @@
 # VRS-C19
+
+FOR YOUR SAFETY YOU CAN CREATE A SIMPLE PAPER MASK CHECK THIS LINK
+https://imgur.com/a/hARRvOI
+ДЛЯ СВОЕЙ БЕЗОПАСНОСТИ МОЖНО СДЕЛАТЬ ПРОСТУЮ МАСКУ ИЗ БУМАГИ ПО ЭТОЙ ССЫЛКЕ
+
+
  TEST : Инфо база С19 /  Info base Covid19
  
 To make it available wrodlwide you can use english language, use Branch to switch it.
